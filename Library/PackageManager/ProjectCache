@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo/Packages/manifest.json"
+    m_FilePath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo_TrabajoFinal/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638947644235128924
     m_Hash: 205969706
   m_LockFileStatus:
-    m_FilePath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo/Packages/packages-lock.json"
+    m_FilePath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo_TrabajoFinal/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo/Packages"
+m_ProjectPath: "C:/Users/andya/Documents/4\xBA A\xD1O/LIDERAZGO/Liderazgo_TrabajoFinal/Packages"
 m_EditorVersion: 6000.0.44f1 (101c91f3a8fb)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: "C:\\Users\\andya\\Documents\\4\xBA A\xD1O\\LIDERAZGO\\Liderazgo\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546"
+  resolvedPath: "C:\\Users\\andya\\Documents\\4\xBA A\xD1O\\LIDERAZGO\\Liderazgo_TrabajoFinal\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546"
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
